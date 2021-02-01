@@ -1,7 +1,6 @@
 # voxelmorph: Learning-Based Image Registration  
 
-# EDITED CODE BASE FOR CARDIAC MRI IMAGE REGISTRATION
-
+# *EDITED CODE BASE FOR CARDIAC MRI IMAGE REGISTRATION*
 
 **voxelmorph** is a general purpose library for learning-based tools for alignment/registration, and more generally modelling with deformations.
 
