@@ -48,8 +48,8 @@ def Validation(valid_loader,model_state,NCC):
 
 # Loading data 
 
-base_pth = "C:/Users/sog19/Desktop/Sheep MR data/bx_sheep3_position3_noHeating/1_Magnitude"
-heated_pth = "C:/Users/sog19/Desktop/Sheep MR data/Train Data_sheep"
+base_pth = "" # path to data folder here
+heated_pth = "" # path to data folder here
 base_images = Get_DICOM_FILES(base_pth)
 heated_images = Get_DICOM_FILES(heated_pth)
 
